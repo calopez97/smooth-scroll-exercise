@@ -1,0 +1,11 @@
+html,
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: #242424;
+}
+
+
+@import "./components/Intro/style.module.scss";
+@import "./components/Description/style.module.scss";

@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+A Simple exercise to practice how to make a landing page with a smooth scroll using Nextjs, GSAP and Locomotive Scroll v5
+
 ## Getting Started
 
 First, run the development server:
